@@ -1,7 +1,9 @@
 # CoRe Challenge 2022 Solver Showcase
 
 - This repository provides solvers participated at [CoRe Challenge 2022](https://core-challenge.github.io/2022/).
-- You can find [results](https://core-challenge.github.io/2022result/).
+- You can find other resources in
+  - [results](https://core-challenge.github.io/2022result/) and,
+  - [descriptions](https://arxiv.org/abs/2208.02495).
 
 - Solvers
   - [ReconfAIGERation (@Froleyks)](Froleyks/README.md)
