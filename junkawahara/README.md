@@ -1,6 +1,6 @@
 # junkawahara
 
-- [zdd-solver-container.tar.gz](https://drive.google.com/file/d/15GM0AuSf-5QNG-HCig3PSFL70k9mV8uG/view?usp=sharing)
+- [zdd-solver-container.tar.gz](./zdd-solver-container.tar.gz)
 
 ## Import
 ```bash
